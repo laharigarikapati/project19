@@ -32,23 +32,23 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
-![Screenshot (81)](https://user-images.githubusercontent.com/113176360/206497168-5dde91f5-9ee2-4255-ae78-f14fd04f5148.png)
-
+![Screenshot (85)](https://user-images.githubusercontent.com/113176360/206498953-79c6f760-6ded-4b28-bf5c-dc26983c4b29.png)
 
 ### Services -
 
 
-![Screenshot (82)](https://user-images.githubusercontent.com/113176360/206497429-541184e2-476b-4fdd-8e24-904fb6eb3ae6.png)
+
+![Screenshot (86)](https://user-images.githubusercontent.com/113176360/206499252-1c7b3518-3bb8-4a10-90cf-da87bed65f8d.png)
 
 ### Contact us -
 
-![Screenshot (83)](https://user-images.githubusercontent.com/113176360/206497606-e3c92ee2-df9d-463f-a7d5-13ec77c0f719.png)
+![Screenshot (87)](https://user-images.githubusercontent.com/113176360/206499398-9f141419-b388-4e7c-a38f-c506ee0efc67.png)
 
 
 ### health bot
 
 
-![Screenshot (84)](https://user-images.githubusercontent.com/113176360/206497783-47b411f4-27c2-48fb-ac3e-b96452399848.png)
+![Screenshot (88)](https://user-images.githubusercontent.com/113176360/206499501-db3eef4e-af8f-4ce8-be0b-49dcf7d52ef3.png)
 
 
 ## Tech Stack 💻
